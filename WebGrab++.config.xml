@@ -1,0 +1,262 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+   
+  <filename>guides.xml</filename>
+  <mode>nomark</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <decryptkey site="mi.tv">diegobascunangonzalez</decryptkey>
+  <license wg-username="diegobascunan" registered-email="diegobascunangonzalez@gmail.com" password="f64fb3a5" />-->
+  <logging>on</logging>
+  <retry time-out="5">2</retry>
+  <timespan>3</timespan>
+  <update>f</update>
+ 
+  
+  <channel site="mi.tv" site_id="cl##cl_8f274125-2c55-4c1e-a95b-72490a2b2f6d" update="i" xmltv_id="CDF Básico">CDF Básico</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF HD 1">CDF HD 1</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF HD 2">CDF HD 2</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF FHD 3">CDF FHD 3</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF HD 4">CDF HD 4</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF SD 5">CDF SD 5</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF HD 6">CDF HD 6</channel>
+  <channel site="mi.tv" site_id="cl##cl_2196d6ad-d763-4908-8e7d-5835a477e751" update="i" xmltv_id="CDF SD 7">CDF SD 7</channel>
+    
+
+	
+   <channel site="mi.tv" site_id="cl##cl_a8e880a4-c314-4454-81bf-e105762d9a59" update="i" xmltv_id="La Red A">La Red A</channel>
+   <channel site="mi.tv" site_id="cl##cl_a8e880a4-c314-4454-81bf-e105762d9a59" update="i" xmltv_id="La Red B">La Red B</channel>
+   <channel site="mi.tv" site_id="cl##cl_bfc9aec7-41db-4899-acbd-075240dd421c" update="i" xmltv_id="TV+ A">TV+ A</channel>
+   <channel site="mi.tv" site_id="cl##cl_bfc9aec7-41db-4899-acbd-075240dd421c" update="i" xmltv_id="TV+ B">TV+ B</channel>
+   <channel site="mi.tv" site_id="cl##cl_bfc9aec7-41db-4899-acbd-075240dd421c" update="i" xmltv_id="TV+ C">TV+ C</channel>
+   <channel site="mi.tv" site_id="cl##cl_221e58be-bb55-449f-85d6-84743d8aa53b" update="i" xmltv_id="TVN A">TVN A</channel>
+   <channel site="mi.tv" site_id="cl##cl_221e58be-bb55-449f-85d6-84743d8aa53b" update="i" xmltv_id="TVN B">TVN B</channel>
+   <channel site="mi.tv" site_id="cl##cl_221e58be-bb55-449f-85d6-84743d8aa53b" update="i" xmltv_id="TVN C">TVN C</channel>
+   <channel site="mi.tv" site_id="cl##cl_67180b0c-dda6-49ac-ac53-69430193b12f" update="i" xmltv_id="Mega A">Mega A</channel>
+   <channel site="mi.tv" site_id="cl##cl_67180b0c-dda6-49ac-ac53-69430193b12f" update="i" xmltv_id="Mega B">Mega B</channel>
+   <channel site="mi.tv" site_id="cl##cl_67180b0c-dda6-49ac-ac53-69430193b12f" update="i" xmltv_id="Mega C">Mega C</channel>
+   <channel site="mi.tv" site_id="cl##cl_4b58baa0-3d3b-4913-b5f2-8bdb0d98bc6c" update="i" xmltv_id="Chilevision A">Chilevision A</channel>
+   <channel site="mi.tv" site_id="cl##cl_4b58baa0-3d3b-4913-b5f2-8bdb0d98bc6c" update="i" xmltv_id="Chilevision B">Chilevision B</channel>
+   <channel site="mi.tv" site_id="cl##cl_4b58baa0-3d3b-4913-b5f2-8bdb0d98bc6c" update="i" xmltv_id="Chilevision C">Chilevision C</channel>
+   <channel site="mi.tv" site_id="cl##cl_ad7c1f20-c6ca-4587-a903-89fbca343bf0" update="i" xmltv_id="Canal 13 A">Canal 13 A</channel>
+   <channel site="mi.tv" site_id="cl##cl_ad7c1f20-c6ca-4587-a903-89fbca343bf0" update="i" xmltv_id="Canal 13 B">Canal 13 B</channel>
+   <channel site="mi.tv" site_id="cl##cl_6fefcdc4-120b-4079-8cc2-9e04994e5565" update="i" xmltv_id="13C">13C</channel>
+   <channel site="mi.tv" site_id="cl##cl_c5509dfc-391f-4d4e-89bf-98e13d2d5cc6" update="i" xmltv_id="Rec TV">Rec TV</channel>
+   <channel site="mi.tv" site_id="cl##cl_7ab218c3-787b-4d2c-93fc-c5ea5bcab6aa" update="i" xmltv_id="Camara de Diputados">Camara de Diputados</channel>
+   <channel site="gatotv.com" site_id="tv_chile" update="i" xmltv_id="TV Chile">TV Chile</channel>   
+ 
+ 
+   <channel site="mi.tv" site_id="cl##cl_0522f964-49fd-47ae-aac5-b94822e5f06b" update="i" xmltv_id="Fox Action A">Fox Action A</channel>
+   <channel site="mi.tv" site_id="cl##cl_0522f964-49fd-47ae-aac5-b94822e5f06b" update="i" xmltv_id="Fox Action B">Fox Action B</channel>
+   <channel site="mi.tv" site_id="cl##cl_fea71e6d-04c5-4639-a751-ace8872a222f" update="i" xmltv_id="Fox Cinema A">Fox Cinema A</channel>
+   <channel site="mi.tv" site_id="cl##cl_fea71e6d-04c5-4639-a751-ace8872a222f" update="i" xmltv_id="Fox Cinema B">Fox Cinema B</channel>
+   <channel site="mi.tv" site_id="cl##cl_63b6d0e9-04fb-4a41-b311-94e764d73a8a" update="i" xmltv_id="Fox Classics A">Fox Classics A</channel>
+   <channel site="mi.tv" site_id="cl##cl_63b6d0e9-04fb-4a41-b311-94e764d73a8a" update="i" xmltv_id="Fox Classics B">Fox Classics B</channel>
+   <channel site="mi.tv" site_id="cl##cl_0c7bf9ef-d236-4432-9245-4a13678235f4" update="i" xmltv_id="Fox Comedy A">Fox Comedy A</channel>
+   <channel site="mi.tv" site_id="cl##cl_0c7bf9ef-d236-4432-9245-4a13678235f4" update="i" xmltv_id="Fox Comedy B">Fox Comedy B</channel>
+   <channel site="mi.tv" site_id="cl##cl_2d8a5618-0bfb-41b9-9227-aaa140ed372d" update="i" xmltv_id="Fox Family A">Fox Family A</channel>
+   <channel site="mi.tv" site_id="cl##cl_2d8a5618-0bfb-41b9-9227-aaa140ed372d" update="i" xmltv_id="Fox Family B">Fox Family B</channel>
+   <channel site="mi.tv" site_id="cl##cl_ce3e975d-b1bf-4f89-81d5-abc65e46a889" update="i" xmltv_id="Fox Movies A">Fox Movies A</channel>
+   <channel site="mi.tv" site_id="cl##cl_ce3e975d-b1bf-4f89-81d5-abc65e46a889" update="i" xmltv_id="Fox Movies B">Fox Movies B</channel>
+   <channel site="mi.tv" site_id="cl##cl_1903b2ff-9497-49fe-a042-93b02cf6df7d" update="i" xmltv_id="Fox Series A">Fox Series A</channel>
+   <channel site="mi.tv" site_id="cl##cl_1903b2ff-9497-49fe-a042-93b02cf6df7d" update="i" xmltv_id="Fox Series B">Fox Series B</channel>
+   <channel site="mi.tv" site_id="mx##mx_424e45c1-e178-455a-912a-722979b7e435" update="i" xmltv_id="HBO (MX) A">HBO (MX) A</channel>
+   <channel site="mi.tv" site_id="mx##mx_424e45c1-e178-455a-912a-722979b7e435" update="i" xmltv_id="HBO (MX) B">HBO (MX) B</channel>
+   <channel site="mi.tv" site_id="cl##cl_f8a03154-1476-4178-abfe-84f13300a645" update="i" xmltv_id="HBO (CO) A">HBO (CO) A</channel>
+   <channel site="mi.tv" site_id="cl##cl_f8a03154-1476-4178-abfe-84f13300a645" update="i" xmltv_id="HBO (CO) B">HBO (CO) B</channel>
+   <channel site="mi.tv" site_id="cl##cl_705fdd35-1f90-4d75-a778-ac7049e08d61" update="i" xmltv_id="HBO 2 A">HBO 2 A</channel>
+   <channel site="mi.tv" site_id="cl##cl_705fdd35-1f90-4d75-a778-ac7049e08d61" update="i" xmltv_id="HBO 2 B">HBO 2 B</channel>
+   <channel site="mi.tv" site_id="co##co_753da1db-357e-45ec-9c87-b292bc650390" update="i" xmltv_id="HBO Family A">HBO Family A</channel>
+   <channel site="mi.tv" site_id="co##co_753da1db-357e-45ec-9c87-b292bc650390" update="i" xmltv_id="HBO Family B">HBO Family B</channel>
+   <channel site="mi.tv" site_id="cl##cl_bc1d8b5a-a06b-4cce-b527-05168d6b9969" update="i" xmltv_id="HBO Mundi A">HBO Mundi A</channel>
+   <channel site="mi.tv" site_id="cl##cl_bc1d8b5a-a06b-4cce-b527-05168d6b9969" update="i" xmltv_id="HBO Mundi B">HBO Mundi B</channel>
+   <channel site="mi.tv" site_id="cl##cl_508388ce-58de-4d00-be1e-5e9a738041c4" update="i" xmltv_id="HBO Plus A">HBO Plus A</channel>
+   <channel site="mi.tv" site_id="cl##cl_508388ce-58de-4d00-be1e-5e9a738041c4" update="i" xmltv_id="HBO Plus B">HBO Plus B</channel>
+   <channel site="mi.tv" site_id="cl##cl_1339ab42-efa7-4247-9eaf-af4511d098ac" update="i" xmltv_id="HBO Pop A">HBO Pop A</channel>
+   <channel site="mi.tv" site_id="cl##cl_1339ab42-efa7-4247-9eaf-af4511d098ac" update="i" xmltv_id="HBO Pop B">HBO Pop B</channel>
+   <channel site="mi.tv" site_id="cl##cl_73f492ba-804a-4120-a010-449f65073aac" update="i" xmltv_id="HBO Signature A">HBO Signature A</channel>
+   <channel site="mi.tv" site_id="cl##cl_73f492ba-804a-4120-a010-449f65073aac" update="i" xmltv_id="HBO Signature B">HBO Signature B</channel>
+   <channel site="mi.tv" site_id="hn##hn_07fb082d-88f7-479f-bae9-2111797a2990" update="i" xmltv_id="HBO Xtreme A">HBO Xtreme A</channel>
+   <channel site="mi.tv" site_id="mx##mx_3baadb3e-872e-41f6-975b-e0d5713a076f" update="i" xmltv_id="HBO Xtreme B">HBO Xtreme B</channel>   
+
+
+
+   <channel site="mi.tv" site_id="mx##mx_2b5a4a05-334a-4136-a9ce-3a17ebd4c4e3" update="i" xmltv_id="A and E">A and E</channel>
+   <channel site="mi.tv" site_id="co##co_d457e17b-9689-4473-baa5-832892226517" update="i" xmltv_id="AMC A">AMC A</channel>
+   <channel site="mi.tv" site_id="co##co_d457e17b-9689-4473-baa5-832892226517" update="i" xmltv_id="AMC B">AMC B</channel>
+   <channel site="mi.tv" site_id="co##co_57df7605-098f-47a0-a36d-8148f7f36ca8" update="i" xmltv_id="AXN A">AXN A</channel>
+   <channel site="mi.tv" site_id="mx##mx_70c4a667-a5c9-4d40-9b31-6348002cdf94" update="i" xmltv_id="AXN B">AXN B</channel>
+   <channel site="mi.tv" site_id="mx##mx_24a6e0e3-867f-4155-a15d-d1e95f402f36" update="i" xmltv_id="Cinecanal A">Cinecanal A</channel>
+   <channel site="mi.tv" site_id="mx##mx_24a6e0e3-867f-4155-a15d-d1e95f402f36" update="i" xmltv_id="Cinecanal B">Cinecanal B</channel>
+ 
+
+   <channel site="mi.tv" site_id="mx##mx_5019939f-1b8b-4154-b171-992a5dcdc19d" update="i" xmltv_id="Cinemax A">Cinemax A</channel>
+   <channel site="mi.tv" site_id="mx##mx_5019939f-1b8b-4154-b171-992a5dcdc19d" update="i" xmltv_id="Cinemax B">Cinemax B</channel>
+   <channel site="mi.tv" site_id="cl##cl_a89034bd-3f8b-45dc-a255-f0b973805ded" update="i" xmltv_id="DHE A">DHE A</channel>
+   <channel site="mi.tv" site_id="cl##cl_a89034bd-3f8b-45dc-a255-f0b973805ded" update="i" xmltv_id="DHE B">DHE B</channel>
+   <channel site="mi.tv" site_id="cl##cl_d5d9560b-0fa5-4a4d-b438-50058dd24d63" update="i" xmltv_id="Film and Arts A">Film and Arts A</channel>
+   <channel site="mi.tv" site_id="cl##cl_d5d9560b-0fa5-4a4d-b438-50058dd24d63" update="i" xmltv_id="Film and Arts B">Film and Arts B</channel>
+   <channel site="mi.tv" site_id="sv##sv_a70d8d41-15e1-4404-8fd6-4376319bf81f" update="i" xmltv_id="Fox Channel A">Fox Channel A</channel>
+   <channel site="mi.tv" site_id="sv##sv_a70d8d41-15e1-4404-8fd6-4376319bf81f" update="i" xmltv_id="Fox Channel B">Fox Channel B</channel>
+   <channel site="mi.tv" site_id="mx##mx_6ec49b04-8fad-465c-8414-cb70258dd858" update="i" xmltv_id="Fox Life A">Fox Life A</channel>
+   <channel site="mi.tv" site_id="mx##mx_6ec49b04-8fad-465c-8414-cb70258dd858" update="i" xmltv_id="Fox Life B">Fox Life B</channel>
+   <channel site="mi.tv" site_id="mx##mx_5b85fac1-6e81-4b67-9cab-cd27ea7b3eed" update="i" xmltv_id="FX A">FX A</channel>
+   <channel site="mi.tv" site_id="mx##mx_5b85fac1-6e81-4b67-9cab-cd27ea7b3eed" update="i" xmltv_id="FX B">FX B</channel>
+   <channel site="mi.tv" site_id="cl##cl_5ff4f054-247e-4b20-b275-801149e21816" update="i" xmltv_id="FXM A">FXM A</channel>
+   <channel site="mi.tv" site_id="cl##cl_5ff4f054-247e-4b20-b275-801149e21816" update="i" xmltv_id="FXM B">FXM B</channel>
+   <channel site="mi.tv" site_id="cl##cl_a7ab6363-0685-49b5-ba17-3dcf23e084d8" update="i" xmltv_id="Golden">Golden</channel>
+   <channel site="mi.tv" site_id="cl##cl_a8bd8885-8d5d-4250-8f53-66a5eaf8ea1d" update="i" xmltv_id="Golden Edge A">Golden Edge A</channel>
+   <channel site="mi.tv" site_id="cl##cl_a8bd8885-8d5d-4250-8f53-66a5eaf8ea1d" update="i" xmltv_id="Golden Edge B">Golden Edge B</channel>
+   <channel site="gatotv.com" site_id="golden_plus" update="i" xmltv_id="Golden Plus A">Golden Plus A</channel>
+   <channel site="gatotv.com" site_id="golden_plus" update="i" xmltv_id="Golden Plus B">Golden Plus B</channel>
+   <channel site="gatotv.com" site_id="golden_premier" update="i" xmltv_id="Golden Premier A">Golden Premier A</channel>
+   <channel site="gatotv.com" site_id="golden_premier" update="i" xmltv_id="Golden Premier B">Golden Premier B</channel>
+   <channel site="mi.tv" site_id="cl##cl_abb32ab2-9a96-4baf-b651-2d69fa44481b" update="i" xmltv_id="ISat">ISat</channel>
+   <channel site="mi.tv" site_id="co##co_cbdb8625-a443-438a-8ac1-d4458a450050" update="i" xmltv_id="Multipremier">Multipremier</channel>
+   <channel site="mi.tv" site_id="cl##cl_09cd0d83-fd6b-47ba-a3c1-5c91b66b27a9" update="i" xmltv_id="Paramount Channel A">Paramount Channel A</channel>
+   <channel site="mi.tv" site_id="cl##cl_09cd0d83-fd6b-47ba-a3c1-5c91b66b27a9" update="i" xmltv_id="Paramount Channel B">Paramount Channel B</channel>
+   <channel site="mi.tv" site_id="co##co_96c97992-f6dd-44cd-bf53-ca52a51fb63e" update="i" xmltv_id="Sony Channel A">Sony Channel A</channel>   
+   <channel site="mi.tv" site_id="co##co_96c97992-f6dd-44cd-bf53-ca52a51fb63e" update="i" xmltv_id="Sony Channel B">Sony Channel B</channel>   
+   <channel site="mi.tv" site_id="cl##cl_5e82c7f8-d4c7-49ef-a098-649b590fb419" update="i" xmltv_id="Space A">Space A</channel>   
+   <channel site="mi.tv" site_id="cl##cl_5e82c7f8-d4c7-49ef-a098-649b590fb419" update="i" xmltv_id="Space B">Space B</channel>   
+   <channel site="mi.tv" site_id="co##co_d3da2eb9-324b-4b58-b886-8b0fb1def1ba" update="i" xmltv_id="Studio Universal A">Studio Universal A</channel>   
+   <channel site="mi.tv" site_id="co##co_d3da2eb9-324b-4b58-b886-8b0fb1def1ba" update="i" xmltv_id="Studio Universal B">Studio Universal B</channel>   
+   <channel site="mi.tv" site_id="co##co_fd15abe8-bb94-4c45-abf7-035598188007" update="i" xmltv_id="SyFy A">SyFy A</channel>   
+   <channel site="mi.tv" site_id="co##co_fd15abe8-bb94-4c45-abf7-035598188007" update="i" xmltv_id="SyFy B">SyFy B</channel>   
+   <channel site="mi.tv" site_id="co##co_f45c8350-d33c-4dcd-8dab-5d50cc1b1463" update="i" xmltv_id="TBS A">TBS A</channel>   
+   <channel site="mi.tv" site_id="co##co_f45c8350-d33c-4dcd-8dab-5d50cc1b1463" update="i" xmltv_id="TBS B">TBS B</channel>   
+   <channel site="mi.tv" site_id="cl##cl_d55f4214-ff70-420d-8113-f9697c40c38d" update="i" xmltv_id="TCM A">TCM A</channel>      
+   <channel site="mi.tv" site_id="cl##cl_d55f4214-ff70-420d-8113-f9697c40c38d" update="i" xmltv_id="TCM B">TCM B</channel>   
+   <channel site="mi.tv" site_id="mx##mx_be88ebac-e47f-4929-ab23-b8f7a0179ca1" update="i" xmltv_id="TNT A">TNT A</channel>   
+   <channel site="mi.tv" site_id="mx##mx_be88ebac-e47f-4929-ab23-b8f7a0179ca1" update="i" xmltv_id="TNT B">TNT B</channel>   
+   <channel site="mi.tv" site_id="co##co_346ced66-5b76-400f-a4c0-7a2617f742d1" update="i" xmltv_id="TNT Series A">TNT Series A</channel>   
+   <channel site="mi.tv" site_id="co##co_346ced66-5b76-400f-a4c0-7a2617f742d1" update="i" xmltv_id="TNT Series B">TNT Series B</channel>   
+   <channel site="mi.tv" site_id="mx##mx_0a56cc13-171e-4bdd-94aa-7576b73cf85a" update="i" xmltv_id="Universal Channel A">Universal Channel A</channel>   
+   <channel site="mi.tv" site_id="mx##mx_0a56cc13-171e-4bdd-94aa-7576b73cf85a" update="i" xmltv_id="Universal Channel B">Universal Channel B</channel>   
+   <channel site="mi.tv" site_id="mx##mx_70cae875-7317-48af-aa85-531d1c590a82" update="i" xmltv_id="Warner Channel A">Warner Channel A</channel>   
+   <channel site="mi.tv" site_id="mx##mx_70cae875-7317-48af-aa85-531d1c590a82" update="i" xmltv_id="Warner Channel B">Warner Channel B</channel>   
+  
+
+
+   <channel site="mi.tv" site_id="co##co_a6fe5747-7fa2-426e-9df4-1d8f27e844cc" update="i" xmltv_id="Animal Planet A">Animal Planet A</channel>   
+   <channel site="mi.tv" site_id="mx##mx_f39a7d80-115f-4bc9-8af2-4fab27810035" update="i" xmltv_id="Animal Planet B">Animal Planet B</channel>   
+   <channel site="mi.tv" site_id="ar##ar_ccb1d04d-a1b0-4e41-9ea1-0b364f4b1255" update="i" xmltv_id="Discovery Channel A">Discovery Channel A</channel>   
+   <channel site="mi.tv" site_id="co##co_ef2c5255-a3bb-46d8-b8fb-33b6e43a8f68" update="i" xmltv_id="Discovery Channel B">Discovery Channel B</channel>   
+ <!--  <channel site="mi.tv" site_id="ar##ar_90d40c9f-329a-4032-b9c9-cfbb51675b4a" update="i" xmltv_id="Discovery Home and Health A">Discovery Home and Health A</channel> -->
+   <channel site="mi.tv" site_id="mx##mx_9089c319-2baf-4374-aaaa-bbbae1733114" update="i" xmltv_id="Discovery Home and Health A">Discovery Home and Health A</channel> 
+   <channel site="mi.tv" site_id="mx##mx_9089c319-2baf-4374-aaaa-bbbae1733114" update="i" xmltv_id="Discovery Home and Health B">Discovery Home and Health B</channel>   
+   <channel site="mi.tv" site_id="co##co_63f3ccb0-f1e1-4696-b815-9a37f8fffb12" update="i" xmltv_id="Discovery ID A">Discovery ID A</channel>  
+   <channel site="mi.tv" site_id="mx##mx_bf87c014-a17d-40d9-bd76-1c95f9d00e9b" update="i" xmltv_id="Discovery ID B">Discovery ID B</channel>
+ <!--  <channel site="mi.tv" site_id="ar##ar_3119a2e8-d2f4-420a-9912-661de9918421" update="i" xmltv_id="Discovery ID B">Discovery ID B</channel>  --> 
+   <channel site="mi.tv" site_id="co##co_5fcc8181-2edf-417f-b94b-e8c7e321d7f4" update="i" xmltv_id="Discovery Science A">Discovery Science A</channel>   
+   <channel site="mi.tv" site_id="co##co_5fcc8181-2edf-417f-b94b-e8c7e321d7f4" update="i" xmltv_id="Discovery Science B">Discovery Science B</channel>   
+   <channel site="mi.tv" site_id="mx##mx_a5de5e15-8f52-4bc3-a87f-bccacdc14d0f" update="i" xmltv_id="Discovery Theater A">Discovery Theater A</channel>   
+   <channel site="mi.tv" site_id="mx##mx_a5de5e15-8f52-4bc3-a87f-bccacdc14d0f" update="i" xmltv_id="Discovery Theater B">Discovery Theater B</channel>   
+   <channel site="mi.tv" site_id="co##co_a5c3fec3-f2d9-4885-95bc-c66ed66ed06d" update="i" xmltv_id="Discovery TLC A">Discovery TLC A</channel>   
+   <channel site="mi.tv" site_id="co##co_a5c3fec3-f2d9-4885-95bc-c66ed66ed06d" update="i" xmltv_id="Discovery TLC B">Discovery TLC B</channel>   
+   <channel site="mi.tv" site_id="co##co_89f02d89-e2fc-4f08-a2d1-657ffa3f1b7e" update="i" xmltv_id="Discovery Turbo A">Discovery Turbo A</channel>   
+   <channel site="mi.tv" site_id="co##co_89f02d89-e2fc-4f08-a2d1-657ffa3f1b7e" update="i" xmltv_id="Discovery Turbo B">Discovery Turbo B</channel>   
+   <channel site="mi.tv" site_id="cl##cl_788b2804-238d-4727-8494-b761344abb1f" update="i" xmltv_id="Discovery World A">Discovery World A</channel>   
+   <channel site="mi.tv" site_id="cl##cl_788b2804-238d-4727-8494-b761344abb1f" update="i" xmltv_id="Discovery World B">Discovery World B</channel>   
+   <channel site="mi.tv" site_id="co##co_7d2c86eb-e80e-4815-972c-9eaaa3f5e46c" update="i" xmltv_id="History Channel A">History Channel A</channel>   
+   <channel site="mi.tv" site_id="co##co_7d2c86eb-e80e-4815-972c-9eaaa3f5e46c" update="i" xmltv_id="History Channel B">History Channel B</channel>   
+   <channel site="mi.tv" site_id="co##co_78a1ccb0-c27b-480e-af17-7ddf5cd5520e" update="i" xmltv_id="H2 A">H2 A</channel>   
+   <channel site="mi.tv" site_id="co##co_78a1ccb0-c27b-480e-af17-7ddf5cd5520e" update="i" xmltv_id="H2 B">H2 B</channel>     
+   <channel site="mi.tv" site_id="co##co_9be38d7e-de73-4768-8a23-2968c95d9ab4" update="i" xmltv_id="NatGeo Wild A">NatGeo Wild A</channel>   
+   <channel site="mi.tv" site_id="co##co_9be38d7e-de73-4768-8a23-2968c95d9ab4" update="i" xmltv_id="NatGeo Wild B">NatGeo Wild B</channel>   
+   <channel site="mi.tv" site_id="co##co_57ea0567-5106-49ac-9b60-25f3eb40188a" update="i" xmltv_id="National Geographic A">National Geographic A</channel>   
+   <channel site="mi.tv" site_id="co##co_57ea0567-5106-49ac-9b60-25f3eb40188a" update="i" xmltv_id="National Geographic B">National Geographic B</channel>   
+
+
+   <channel site="mi.tv" site_id="mx##mx_ba392dda-0289-4664-a334-825318457de2" update="i" xmltv_id="ESPN 1 MX">ESPN 1 MX</channel>   
+   <channel site="mi.tv" site_id="co##co_8a59310b-f558-48e3-8dcf-d59afc9e5ac3" update="i" xmltv_id="ESPN 1 SUR A">ESPN 1 SUR A</channel>
+   <channel site="mi.tv" site_id="co##co_8a59310b-f558-48e3-8dcf-d59afc9e5ac3" update="i" xmltv_id="ESPN 1 SUR B">ESPN 1 SUR B</channel>  
+   <channel site="mi.tv" site_id="co##co_8a59310b-f558-48e3-8dcf-d59afc9e5ac3" update="i" xmltv_id="ESPN 1 SUR C">ESPN 1 SUR C</channel>  
+   <channel site="mi.tv" site_id="co##co_8a59310b-f558-48e3-8dcf-d59afc9e5ac3" update="i" xmltv_id="ESPN 1 SUR D">ESPN 1 SUR D</channel>     
+   <channel site="mi.tv" site_id="cl##cl_dea3ae5d-d497-4820-97fa-2c7b8fb75911" update="i" xmltv_id="ESPN 2 CHILE A">ESPN 2 CHILE A</channel>   
+   <channel site="mi.tv" site_id="cl##cl_dea3ae5d-d497-4820-97fa-2c7b8fb75911" update="i" xmltv_id="ESPN 2 CHILE B">ESPN 2 CHILE B</channel>   
+   <channel site="mi.tv" site_id="cl##cl_dea3ae5d-d497-4820-97fa-2c7b8fb75911" update="i" xmltv_id="ESPN 2 CHILE C">ESPN 2 CHILE C</channel> 
+   <channel site="mi.tv" site_id="co##co_dac2a8a6-6b02-4a29-9aef-d6aa57d43b02" update="i" xmltv_id="ESPN 2 COLOMBIA A">ESPN 2 COLOMBIA A</channel>   
+   <channel site="mi.tv" site_id="co##co_dac2a8a6-6b02-4a29-9aef-d6aa57d43b02" update="i" xmltv_id="ESPN 2 COLOMBIA B">ESPN 2 COLOMBIA B</channel>   
+   <channel site="mi.tv" site_id="co##co_dac2a8a6-6b02-4a29-9aef-d6aa57d43b02" update="i" xmltv_id="ESPN 2 COLOMBIA C">ESPN 2 COLOMBIA C</channel>  
+   <channel site="mi.tv" site_id="mx##mx_3ca0e008-7f9e-4d32-a37e-f390e63bc213" update="i" xmltv_id="ESPN 2 MX">ESPN 2 MX</channel>
+   <channel site="mi.tv" site_id="mx##mx_2d2905ad-789d-49d6-8325-7ee9099b2ea2" update="i" xmltv_id="ESPN 3 MX">ESPN 3 MX</channel>
+   <channel site="mi.tv" site_id="co##co_717811e3-8d7a-4f37-9b9f-950b231247d7" update="i" xmltv_id="ESPN 3 SUR A">ESPN 3 SUR A</channel>
+   <channel site="mi.tv" site_id="co##co_717811e3-8d7a-4f37-9b9f-950b231247d7" update="i" xmltv_id="ESPN 3 SUR B">ESPN 3 SUR B</channel>
+   <channel site="mi.tv" site_id="cl##cl_05fbf48c-a9e6-477e-a4f6-9ef41b6ec7a0" update="i" xmltv_id="ESPN Extra">ESPN Extra</channel>
+   <channel site="mi.tv" site_id="mx##mx_0499f083-9bdd-42e6-976f-2076f2b25487" update="i" xmltv_id="Fox Sports 1 MX">Fox Sports 1 MX</channel>   
+   <channel site="mi.tv" site_id="cl##cl_c8108f87-3126-4af6-9620-cf6295c253b4" update="i" xmltv_id="Fox Sports 1 SUR A">Fox Sports 1 SUR A</channel>   
+   <channel site="mi.tv" site_id="cl##cl_c8108f87-3126-4af6-9620-cf6295c253b4" update="i" xmltv_id="Fox Sports 1 SUR B">Fox Sports 1 SUR B</channel>   
+   <channel site="mi.tv" site_id="cl##cl_c8108f87-3126-4af6-9620-cf6295c253b4" update="i" xmltv_id="Fox Sports 1 SUR C">Fox Sports 1 SUR C</channel> 
+   <channel site="mi.tv" site_id="cl##cl_c8108f87-3126-4af6-9620-cf6295c253b4" update="i" xmltv_id="Fox Sports 1 SUR D">Fox Sports 1 SUR D</channel>    
+   <channel site="mi.tv" site_id="ar##ar_a270480e-8a44-42c9-b5f1-50a030e3816d" update="i" xmltv_id="Fox Sports 1 SUR E">Fox Sports 1 SUR E</channel>
+   <channel site="mi.tv" site_id="mx##mx_da48f8f9-2d6d-4866-b113-210540f41fc7" update="i" xmltv_id="Fox Sports 2 MX">Fox Sports 2 MX</channel>      
+   <channel site="mi.tv" site_id="ar##ar_7a5e13b3-446f-4e15-a7d4-b645e6e09cce" update="i" xmltv_id="Fox Sports 2 SUR A">Fox Sports 2 SUR A</channel>      
+   <channel site="mi.tv" site_id="ar##ar_7a5e13b3-446f-4e15-a7d4-b645e6e09cce" update="i" xmltv_id="Fox Sports 2 SUR B">Fox Sports 2 SUR B</channel>       
+   <channel site="mi.tv" site_id="mx##mx_7f86530d-9380-4274-b1b0-b4b2a1d49c52" update="i" xmltv_id="Fox Sports 3 MX">Fox Sports 3 MX</channel>      
+   <channel site="mi.tv" site_id="ar##ar_af0bbbe2-ca04-4f86-a1f5-b5e3e55b2472" update="i" xmltv_id="Fox Sports 3 SUR A">Fox Sports 3 SUR A</channel>      
+   <channel site="mi.tv" site_id="ar##ar_af0bbbe2-ca04-4f86-a1f5-b5e3e55b2472" update="i" xmltv_id="Fox Sports 3 SUR B">Fox Sports 3 SUR B</channel>    
+   <channel site="mi.tv" site_id="ar##ar_74ca7c4a-c247-440c-aea5-a1378263b6cc" update="i" xmltv_id="TNT Sports A">TNT Sports A</channel>  
+   <channel site="mi.tv" site_id="ar##ar_74ca7c4a-c247-440c-aea5-a1378263b6cc" update="i" xmltv_id="TNT Sports B">TNT Sports B</channel>  
+   <channel site="mi.tv" site_id="ar##ar_74ca7c4a-c247-440c-aea5-a1378263b6cc" update="i" xmltv_id="TNT Sports C">TNT Sports C</channel>  
+   <channel site="mi.tv" site_id="ar##ar_e376e54e-16be-4d98-be45-ff5b9fd92d1f" update="i" xmltv_id="TyC Sports A">TyC Sports A</channel>  
+   <channel site="mi.tv" site_id="ar##ar_e376e54e-16be-4d98-be45-ff5b9fd92d1f" update="i" xmltv_id="TyC Sports B">TyC Sports B</channel>    
+
+   
+   
+
+  
+   
+   <channel site="mi.tv" site_id="mx##mx_e585bc2b-f263-4c49-8f81-a1851b407cbd" update="i" xmltv_id="Comedy Central">Comedy Central</channel>  
+   <channel site="mi.tv" site_id="hn##hn_4fbffab8-45b3-41ed-a57e-5e96c5416194" update="i" xmltv_id="Distrito Comedia">Distrito Comedia</channel>   
+   <channel site="mi.tv" site_id="ar##ar_cce3ef9f-a782-48a1-922d-97892fcc3b15" update="i" xmltv_id="EL Gourmet">EL Gourmet</channel>  
+   <channel site="mi.tv" site_id="ar##ar_974a1e05-be56-405f-9d39-df9c45b805f0" update="i" xmltv_id="Food Network">Food Network</channel>  
+   <channel site="mi.tv" site_id="ar##ar_ef1a08e9-b51d-4920-9592-214df6f54783" update="i" xmltv_id="Garage TV">Garage TV</channel>  
+   <channel site="mi.tv" site_id="mx##mx_1de7af60-776c-4d4b-a92a-e118cc603aa8" update="i" xmltv_id="Glitz">Glitz</channel>  
+   <channel site="mi.tv" site_id="ar##ar_2fd786d8-3fad-40be-9bb7-7ca4c4a7cfb8" update="i" xmltv_id="Hola TV">Hola TV</channel>  
+   <channel site="mi.tv" site_id="mx##mx_a6374991-3849-419a-81c0-94870b2509e2" update="i" xmltv_id="Las Estrellas">Las Estrellas</channel>  
+   <channel site="mi.tv" site_id="co##co_21a594bc-3919-4e10-9edd-45eae967f58f" update="i" xmltv_id="Lifetime">Lifetime</channel>  
+   <channel site="mi.tv" site_id="ar##ar_6e3d8b19-852b-46b0-ae94-761fb2cc395f" update="i" xmltv_id="Mas Chic">Mas Chic</channel> 
+   <channel site="mi.tv" site_id="ar##ar_8c29f2fd-8fb1-46ec-9765-d51d828d4641" update="i" xmltv_id="Telefe">Telefe</channel>  
+   <channel site="mi.tv" site_id="ar##ar_11a6f6db-8442-4c51-88f1-a3fba570fd81" update="i" xmltv_id="Telesur">Telesur</channel>   
+
+   
+
+   <channel site="mi.tv" site_id="ar##ar_ea855f35-3749-4e8e-9a48-c24956408f22" update="i" xmltv_id="Baby TV A">Baby TV A</channel>  
+   <channel site="mi.tv" site_id="ar##ar_ea855f35-3749-4e8e-9a48-c24956408f22" update="i" xmltv_id="Baby TV B">Baby TV B</channel>
+   <channel site="mi.tv" site_id="mx##mx_0ab2e64d-2a0d-4295-97de-d8f5f01c303c" update="i" xmltv_id="Boomereang A">Boomereang A</channel>
+   <channel site="mi.tv" site_id="mx##mx_0ab2e64d-2a0d-4295-97de-d8f5f01c303c" update="i" xmltv_id="Boomereang B">Boomereang B</channel>
+   <channel site="mi.tv" site_id="mx##mx_78b10949-8097-435f-a36b-9d5029ded9f8" update="i" xmltv_id="Cartoon Network A">Cartoon Network A</channel>
+   <channel site="mi.tv" site_id="mx##mx_78b10949-8097-435f-a36b-9d5029ded9f8" update="i" xmltv_id="Cartoon Network B">Cartoon Network B</channel>
+   <channel site="mi.tv" site_id="mx##mx_9878ddbc-5f21-4427-bbf3-9cab4f2c7e82" update="i" xmltv_id="Discovery Kids A">Discovery Kids A</channel>
+   <channel site="mi.tv" site_id="mx##mx_9878ddbc-5f21-4427-bbf3-9cab4f2c7e82" update="i" xmltv_id="Discovery Kids B">Discovery Kids B</channel>
+   <channel site="mi.tv" site_id="mx##mx_641d4afb-f7bf-43cd-8686-870abf560777" update="i" xmltv_id="Disney Channel">Disney Channel</channel>
+   <channel site="mi.tv" site_id="mx##mx_194b7b24-8ec4-4a97-9109-d1f0233840de" update="i" xmltv_id="Disney Junior A">Disney Junior A</channel>
+   <channel site="mi.tv" site_id="mx##mx_194b7b24-8ec4-4a97-9109-d1f0233840de" update="i" xmltv_id="Disney Junior B">Disney Junior B</channel>
+   <channel site="mi.tv" site_id="mx##mx_06898d17-9db6-4563-b4c3-4783dff13e4b" update="i" xmltv_id="Disney XD A">Disney XD A</channel>
+   <channel site="mi.tv" site_id="mx##mx_06898d17-9db6-4563-b4c3-4783dff13e4b" update="i" xmltv_id="Disney XD B">Disney XD B</channel>
+   <channel site="mi.tv" site_id="cl##cl_11da0557-f50c-4f92-a7fb-6ae23edf271a" update="i" xmltv_id="ETC TV">ETC TV</channel>
+   <channel site="mi.tv" site_id="cl##cl_8e902047-8ddb-4512-9371-3a051b0e4ff6" update="i" xmltv_id="NatGeo Kids">NatGeo Kids</channel>
+   <channel site="mi.tv" site_id="mx##mx_0d10670b-1972-4df1-a860-aa539651a23a" update="i" xmltv_id="Nick 2 A">Nick 2 A</channel>
+   <channel site="mi.tv" site_id="mx##mx_0d10670b-1972-4df1-a860-aa539651a23a" update="i" xmltv_id="Nick 2 B">Nick 2 B</channel>
+   <channel site="mi.tv" site_id="mx##mx_ab88ff8c-4c74-4537-b204-4b6ea474bd7b" update="i" xmltv_id="Nick Jr">Nick Jr</channel>
+   <channel site="mi.tv" site_id="co##co_0f903a27-84ea-4117-a6aa-7777d7fd7b1d" update="i" xmltv_id="Nickelodeon">Nickelodeon</channel>
+   <channel site="mi.tv" site_id="co##co_22deb9b9-a4da-44b3-bf30-36a88ff9c414" update="i" xmltv_id="Tooncast A">Tooncast A</channel>
+   <channel site="mi.tv" site_id="co##co_22deb9b9-a4da-44b3-bf30-36a88ff9c414" update="i" xmltv_id="Tooncast B">Tooncast B</channel>
+
+   <channel site="mi.tv" site_id="co##co_00b17ee6-aeb8-4c20-a498-b1f89fed8af5" update="i" xmltv_id="Concert Channel">Concert Channel</channel>  
+   <channel site="mi.tv" site_id="co##co_fd016cd8-0675-4eab-b53e-c6b27d417618" update="i" xmltv_id="HTV">HTV</channel>
+   <channel site="mi.tv" site_id="co##co_4fc339ab-ddd3-4fc0-a73c-5dd3aeb61264" update="i" xmltv_id="VH1">VH1</channel>
+
+   <channel site="mi.tv" site_id="co##co_237020f8-78c1-49ec-aed0-067b59e65f6c" update="i" xmltv_id="Vh1 Classics">Vh1 Classics</channel>  
+   <channel site="mi.tv" site_id="mx##mx_9a14fe24-6d0c-47ec-a488-ff2d59624ad0" update="i" xmltv_id="MTV">MTV</channel>  
+   <channel site="mi.tv" site_id="cl##cl_7063008d-ecef-4c1f-9a6d-f4fcdaebf39c" update="i" xmltv_id="MTV Live">MTV Live</channel> 
+ 
+   <channel site="mi.tv" site_id="cl##cl_73f4f362-acc5-4907-bdde-fc53255d40ee" update="i" xmltv_id="24 Horas Play">24 Horas Play</channel>  
+   <channel site="mi.tv" site_id="ar##ar_1aed975a-140d-46ab-9c03-f7f9b83b1280" update="i" xmltv_id="CNN Español">CNN Español</channel>
+   <channel site="mi.tv" site_id="ar##ar_c693a07d-4417-416a-b378-9fd13d8535e6" update="i" xmltv_id="CNN Internacional">CNN Internacional</channel>
+   <channel site="mi.tv" site_id="cl##cl_86acddc6-6723-480a-8f18-c3a8ae0b535a" update="i" xmltv_id="CNN Chile">CNN Chile</channel> 
+  -->
+
+</settings>
